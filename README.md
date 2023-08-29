@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @SyedMdMizan
-- 👀 I’m interested in android development, web development and graphic designing
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on graphic desingning and to build a project in Java
+- 🌱 I’m a Fullstack web developer
+- 💞️ I’m looking to collaborate on Web Development Projects and to build a project in Java
+- 👀 I’m interested in android development, machine learning and graphic designing
 - 📫 reach me at syedmizan19@gmail.com
+
 
 <!---
 SyedMdMizan/SyedMdMizan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
